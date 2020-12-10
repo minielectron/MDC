@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MDC</string>
+    <string name="welcome_message">Welcome to MDC application.</string>
 </resources>
