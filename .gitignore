@@ -52,6 +52,7 @@ captures/
 .idea/caches
 .idea/modules.xml
 gradlew
+gradlew.bat
 gradle
 # Comment next line if keeping position of elements in Navigation Editor is relevant for you
 .idea/navEditor.xml
