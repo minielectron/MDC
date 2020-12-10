@@ -2,4 +2,4 @@ package com.androidprodev.mdc
 
 import androidx.fragment.app.Fragment
 
-class HomeFragment : Fragment(R.layout.fragment_home)
+class SplashFragment : Fragment(R.layout.fragment_splash)
