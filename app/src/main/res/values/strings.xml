@@ -2,4 +2,6 @@
     <string name="app_name">MDC</string>
     <string name="welcome_message">Welcome to MDC application.</string>
     <string name="android_material_design_components">Android Material Design Components</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
